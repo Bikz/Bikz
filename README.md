@@ -2,7 +2,7 @@
 
 **Product Manager | Full-Stack Dev | AI Enthusiast**
 
-I'm passionate about building AI-driven products that solve real-world problems. Currently diving deep into Generative AI, LLMs, and agentic tooling.
+I'm building AI-driven products that solve real-world problems. Currently diving deep into Generative AI, LLMs, and agentic tooling.
 
 ### Projects & Work
 
