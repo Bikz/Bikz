@@ -1,14 +1,20 @@
-# **Bikram Brar**
+# **Bikz**
 
-I design and build AI-driven products that blend reasoning, interaction, and UX spanning voice, health, and developer tools. Over the past year, I’ve independently built and launched multiple full-stack apps to explore how LLMs can power real-world experiences.
+AI Engineer 
 
 ---
 
-### 🧠 Projects & Work
+### Recent Projects
 
 - **[Mysti Health](https://mysti.ai)**  
-  AI health companion that helps people interpret blood test results and long-term wellness trends.
+  AI health companion that helps people interpret test results and long-term wellness trends.
 
+- **[Good Commit](https://github.com/Bikz/goodcommit)**  
+  Rust based OSS Git commit utility.
+
+- **[AIR](https://tryair.ai)**  
+  Mac speech to action desktop agent.
+  
 - **[VoiceCal](https://voicecal.ca)**  
   AI voice receptionist that answers, routes, and books calls for clinics and service businesses.
 
@@ -19,19 +25,13 @@ I design and build AI-driven products that blend reasoning, interaction, and UX 
   Local-first iOS day planner that works offline and lets users bring their own LLM API key.
 
 - **[Capsule Memory](https://github.com/Bikz/capsule-memory)**  
-  Open memory system for AI agents — a modular framework for long-term recall and context reuse.
-
-- **[Vortal](https://github.com/Bikz/getvortal)**  
-  Platform that helps voice-AI startups create and manage customer portals so they can go to market faster.
-
-- **[g.](https://github.com/Bikz/gdot-ai-commit)**  
-  Open-source Git commit utility that generates descriptive commit messages locally using on-device LLMs.
+  Open memory system for AI agents using a modular framework for long-term recall and context reuse.
 
 ---
 
-### ⚙️ Tech & Tools
+### Tech & Tools
 
-**Languages:** TypeScript, JavaScript, Python, Swift
+**Languages:** TypeScript, JavaScript, Python, Swift, Rust, Solidity
 **Frameworks:** React, React Native, Next.js, Node.js, Electron  
 **Infra:** Supabase, Clerk, MongoDB Atlas, AWS, Docker, CI/CD, GCP, Stripe
 **AI Stack:** OpenAI, Claude, local LLMs (Qwen, Mistral), RAG, vector DBs, agentic memory, MCP
@@ -40,7 +40,7 @@ I design and build AI-driven products that blend reasoning, interaction, and UX 
 
 ### **About Me**
 
-- [LinkedIn](https://linkedin.com/in/bikrambrar) | [Personal Site](https://bikrambrar.com) | [X](https://x.com/bikbrar) 
+- [Personal Site](https://bikz.cc) | [X](https://x.com/bikbrar) 
 - I enjoy traveling, investing, fitness, movies, gaming, and exploring new tech.
 
 ---
